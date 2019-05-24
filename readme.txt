@@ -10,3 +10,5 @@ Objeto chamado através do protocolo HTTP para devolver uma resposta dinâmica;
 >> Post: Através de formulário (Esconde os parâmetros) / Alterar
 
 >> Método Service: Requisições get e post
+
+>> JSP: Java Server Page : Página Dinâmica Java
