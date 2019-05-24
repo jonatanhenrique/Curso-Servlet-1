@@ -1,0 +1,5 @@
+package br.com.jonatan.gerenciador.servlet;
+
+public class Empresa {
+
+}
